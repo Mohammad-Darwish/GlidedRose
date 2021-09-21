@@ -1,0 +1,2 @@
+# GlidedRose
+Clean Code Task
